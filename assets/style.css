@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+}
+.navbar ul{
+	list-style-type: none;
+	background-color: antiquewhite
+    padding: 0px;
+	margin: 0px;
+	
+}
+.navbar a{  
+          color: white
+	      text-decoration: none;
+	      padding: 15px
+	      display: block;
+	      text-align: center; 
+
+
+}
+	
+	
+	
+}
